@@ -2,6 +2,7 @@
 # Cash API
 
 API REST que armazena e busca dados em um servidor MySQL, que permitir realizar a gestão de receitas e despesas pessoais!
+conteinerizada com Docker-compose executando um servidor MySql, aplicando TDD a cada passo da implementação das funcionalidades da API,Utilizando o conceito de variáveis de ambiente.
 
 
 ## Instalação
